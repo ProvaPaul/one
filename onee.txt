@@ -1,3 +1,4 @@
 one file
 main file
 another file
+text file
